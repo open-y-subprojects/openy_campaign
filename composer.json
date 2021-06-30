@@ -3,7 +3,8 @@
   "description": "Retention Campaing Application from Open Y Distrubution.",
   "type": "drupal-module",
   "require": {
-    "ymcatwincities/openy": "*"
+    "ymcatwincities/openy": "*",
+    "open-y-subprojects/openy_campaign_demo": "^1.0"
   },
   "license": "GPL-2.0+",
   "minimum-stability": "dev"
